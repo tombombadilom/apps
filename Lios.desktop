@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-Wayland-Startup=true
+Version=1.0
+Type=Application
+Terminal=false
+Exec=lios  --enable-features=UseOzonePlatform --ozone-platform=wayland %U
+Name=Lios
+Comment=Scan & Read
+Icon=/usr/share/lios/lios.png
+Categories=Graphics;
+MimeType=text/plain;image/bmp;image/tiff;image/jpeg;image/png;application/pdf;image/jpeg2000;

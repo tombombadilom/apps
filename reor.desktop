@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-Wayland-Startup=true
+Name=Reor
+Exec=reor --enable-features=UseOzonePlatform --ozone-platform=wayland %U
+Terminal=false
+Type=Application
+Icon=reor
+StartupWMClass=Reor
+X-AppImage-Version=0.1.57
+Comment=Full description of your app
+Categories=Utility;

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Lens
+GenericName=Kubernetes IDE
+Comment=The Kubernetes IDE
+Icon=lens-desktop
+Exec=lens-desktop --unity-launch --enable-features=UseOzonePlatform --enable-gpu --ozone-platform=wayland %U
+Categories=System;
+StartupNotify=true
+StartupWMClass=Lens
+MimeType=x-scheme-handler/lens;

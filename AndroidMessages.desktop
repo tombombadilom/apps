@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-Wayland-Startup=true
+Name=Android Messages
+Exec="/opt/Android Messages/AndroidMessages"  --unity-launch --enable-features=UseOzonePlatform --enable-gpu --ozone-platform=wayland %U
+Terminal=false
+Type=Application
+Icon=AndroidMessages
+StartupWMClass=android-messages-desktop
+Comment=Messages for web, as a desktop app
+Categories=Internet;

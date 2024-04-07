@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-Wayland-Startup=true
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Icon=~/.local/share/icons/mac.svg
+NoDisplay=false
+Exec=cd /home/tom/build/OneClick-macOS-Simple-KVM/ && ./custom.sh
+Name=Mac OS Sonoma
+Comment=Mac os on Qemu

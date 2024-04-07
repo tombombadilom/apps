@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-Wayland-Startup=true
+Name=balenaEtcher
+Exec=/opt/balenaEtcher/balena-etcher --enable-features=WaylandWindowDecorations --ozon-platform-hint=wayland  %U
+Terminal=false
+Type=Application
+Icon=balena-etcher
+StartupWMClass=balenaEtcher
+Comment=Flash OS images to SD cards and USB drives, safely and easily.
+MimeType=x-scheme-handler/etcher;
+Categories=Utility;

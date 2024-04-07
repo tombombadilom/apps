@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-Wayland-Startup=true
+Name=Typora
+GenericName=Markdown Editor
+Exec=typora --enable-features=UseOzonePlatform --ozone-platform=wayland %U
+Icon=typora
+Type=Application
+StartupNotify=true
+Categories=Office;WordProcessor;
+MimeType=text/markdown;text/x-markdown;
+

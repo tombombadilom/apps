@@ -1,0 +1,8 @@
+[Desktop Entry]
+X-Wayland-Startup=true
+Type=Application
+Name=anything-LLM
+Exec=/home/tom/.local/bin/AnythingLLMDesktop.AppImage
+Icon=/home/tom/.local/bin/AnythingLLMDesktop.AppImage
+Terminal=false
+Categories=Utility;Application;

@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-Wayland-Startup=true
+Name=Jan
+Exec=jan --enable-features=UseOzonePlatform --ozone-platform=wayland %U
+Terminal=false
+Type=Application
+Icon=jan
+StartupWMClass=Jan
+Comment=Use offline LLMs with your own data. Run open source models like Llama2 or Falcon on your internal computers/servers.
+Categories=Utility;

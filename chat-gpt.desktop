@@ -1,0 +1,9 @@
+[Desktop Entry]
+X-Wayland-Startup=true
+Categories=Development;
+Comment=ChatGPT
+Exec=chat-gpt
+Icon=chat-gpt
+Name=ChatGPT
+Terminal=false
+Type=Application

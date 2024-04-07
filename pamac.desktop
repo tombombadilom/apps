@@ -1,0 +1,10 @@
+[Desktop Entry]
+X-Wayland-Startup=true
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Icon=/home/tom/.local/share/icons/pamac.png
+NoDisplay=false
+Exec=pamac-manager
+Name=pamac
+Comment=Pamac-aur gui

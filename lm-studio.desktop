@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-Wayland-Startup=true
+Name=LM Studio
+Exec=env DESKTOPINTEGRATION=false /usr/bin/lm-studio --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=lm-studio
+StartupWMClass=LM Studio
+X-AppImage-Version=0.2.18
+Comment=Discover, download, and run LLMs locally
+Categories=Utility;
